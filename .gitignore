@@ -1,0 +1,4 @@
+.vscode
+toysoc/obj_dir
+toysoc/wave*
+ISA/build
