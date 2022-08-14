@@ -4,7 +4,7 @@
 
 toysoc使用toycore内核,可以使用verilator或者iverilog进行仿真      
 
-toycore内核使用rv32I指令集，采用三级状态机实现（取指，译码，访存）          
+toycore内核使用rv32I指令集，采用三级状态机实现（取指，译码，执行）          
 
 
 ## coremark跑分     
